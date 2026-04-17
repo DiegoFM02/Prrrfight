@@ -72,21 +72,23 @@
 Diseñado para ofrecer una entrada rápida a la acción, priorizando el arte visual de las unidades.
 * **Encabezado:** Banner rústico de madera con el título dinámico del juego.
 * **Acciones Principales:** Botonera simplificada que incluye el acceso directo al combate y el panel de configuración, evitando la saturación de opciones.
-<img width="1664" height="2574" alt="Menu de inicio" src="https://github.com/user-attachments/assets/abc8ee8c-2a3f-4ca7-bbf6-1e2b7927b473" />
+<img width="1664" height="2574" alt="Menu de inicio" src="https://github.com/user-attachments/assets/b0114fe1-c2e6-4664-9033-fd974d766fc2" />
+
 
 ### Perfil del Héroe
 Panel detallado que aparece al seleccionar una unidad, proporcionando toda la información necesaria para la estrategia antes del despliegue.
 * **Identidad:** Visualización del nombre de la unidad, clase (Iconografía) y nivel.
 * **Matriz de Estadísticas:** Grilla de 2x2 que muestra de forma iconográfica los atributos base: Vida (PS), Ataque, Movimiento y Defensa.
 * **Desglose de Habilidades:** Listado vertical que detalla el efecto de cada habilidad y su costo de ejecución, facilitando la comprensión de los roles (ej. el Tanque como mitigador de daño).
-<img width="1664" height="2574" alt="Detalles personajes" src="https://github.com/user-attachments/assets/7e8b7246-96a1-4512-ad91-6c5574b93298" />
+<img width="1664" height="2574" alt="Detalles personajes" src="https://github.com/user-attachments/assets/74e22413-cde6-4a60-b576-980e128a6e6e" />
+
 
 ### Panel de Ajustes
 Una ventana emergente (pop-up) con efecto de desenfoque de fondo para no perder el contexto del juego.
-
 * **Controles Temáticos:** Deslizadores (sliders) de volumen que utilizan huellas de gato como indicadores de posición.
 * **Gestión de Sonido:** Separación de canales para música de ambiente y efectos de sonido (SFX), permitiendo una personalización completa de la experiencia auditiva.
-<img width="1664" height="2574" alt="Ajustes" src="https://github.com/user-attachments/assets/cd734a26-3a49-4d32-94c9-99f244339688" />
+<img width="1664" height="2574" alt="Ajustes" src="https://github.com/user-attachments/assets/a7e787a5-d8ec-4a06-bb4c-c9877670b773" />
+
 
 ### 🛠️ Especificaciones Técnicas del Diseño
 * **Relación de Aspecto:** 9:16 (Optimizado para dispositivos móviles modernos).
