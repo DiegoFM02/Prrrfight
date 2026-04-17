@@ -99,8 +99,8 @@ Una ventana emergente (pop-up) con efecto de desenfoque de fondo para no perder 
 ## Ultima actualizacion 
 * **Se implemento el menu principal con sus respectivos botones que nos da 2 opciones**
 <img width="993" height="735" alt="Captura de pantalla 2026-04-17 052314" src="https://github.com/user-attachments/assets/90fb484b-7f4e-4a58-99be-052481967db2" />
-* **El primer botón es para inciar la partida**
-* **La segunda opción es para que el usuario pueda personalizar su experiencia en la aplicación**
+* **El primer botón es para inciar la partida.**
+* **La segunda opción es para que el usuario pueda personalizar su experiencia en la aplicación.**
 * <img width="790" height="665" alt="image" src="https://github.com/user-attachments/assets/71d9311f-8d19-4609-8ffa-32d523fd3eaa" />
 
 
