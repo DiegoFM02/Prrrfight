@@ -106,10 +106,7 @@ Unity es el motor de desarrollo líder para la creación de juegos multiplatafor
 ### Video Tutorial: Cómo descargar Unity
 En este video se explica cómo descargar el **Unity Hub** y seleccionar la versión del editor adecuada para tus proyectos.
 
-[![Descargar Unity](https://1drv.ms/v/c/07657d93c1d922b5/IQD8aZDmeUi7SJs0B7VHVZ0FAZtk0_Epsu294TDJ1JTY6pg?e=eFeohn)
-*Haz clic en la imagen para ver el video.*
-
----
+(https://1drv.ms/v/c/07657d93c1d922b5/IQD8aZDmeUi7SJs0B7VHVZ0FAZtk0_Epsu294TDJ1JTY6pg?e=eFeohn)
 
 ## 2. Instalación de 3ds Max
 Autodesk 3ds Max es una potente solución de modelado, animación y renderizado 3D utilizada por profesionales del diseño y la creación de videojuegos.
@@ -117,10 +114,8 @@ Autodesk 3ds Max es una potente solución de modelado, animación y renderizado 
 ### Video Tutorial: Cómo descargar 3ds Max
 Este video detalla los pasos para obtener la versión oficial (o educativa) de 3ds Max desde el portal de Autodesk.
 
-[![Descargar 3ds Max](https://1drv.ms/v/c/07657d93c1d922b5/IQDaBYaMRFRxTaKT3AGqz9wUAb5v5vx8gh93gitl8wEXMZU?e=arkG2O)
-*Haz clic en la imagen para ver el video.*
+(https://1drv.ms/v/c/07657d93c1d922b5/IQDaBYaMRFRxTaKT3AGqz9wUAb5v5vx8gh93gitl8wEXMZU?e=arkG2O)
 
----
 
 ## Requisitos Previos
 - Conexión a internet estable.
