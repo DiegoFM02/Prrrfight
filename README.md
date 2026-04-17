@@ -1,4 +1,4 @@
-# Prrrfight 🐾⚔️
+<img width="1664" height="2574" alt="Detalles personajes" src="https://github.com/user-attachments/assets/363d472b-d83d-4790-961c-364d2efe85ef" /># Prrrfight 🐾⚔️
 
 **Prrrfight** es un videojuego de estrategia táctica por turnos (TRPG) con ambientación medieval, donde los valientes protagonistas son gatos guerreros. Desarrollado en **Unity**, diseñado específicamente para dispositivos móviles con una orientación vertical.
 
@@ -66,5 +66,34 @@
 * **Coyeye:** Golpe cuerpo a cuerpo (1 PS) y corre 4 casillas en cualquier dirección.
 * **Super flecha:** 6 PS de daño e ignora escudos (Costo muy alto).
 * **Resortera:** Proyectil en línea recta que impacta al primer objetivo (2 PS).
+
+## 🎨 Mockups 
+### Menú Principal
+Diseñado para ofrecer una entrada rápida a la acción, priorizando el arte visual de las unidades.
+* **Encabezado:** Banner rústico de madera con el título dinámico del juego.
+* **Acciones Principales:** Botonera simplificada que incluye el acceso directo al combate y el panel de configuración, evitando la saturación de opciones.
+<img width="1664" height="2574" alt="Menu de inicio" src="https://github.com/user-attachments/assets/abc8ee8c-2a3f-4ca7-bbf6-1e2b7927b473" />
+
+### Perfil del Héroe
+Panel detallado que aparece al seleccionar una unidad, proporcionando toda la información necesaria para la estrategia antes del despliegue.
+* **Identidad:** Visualización del nombre de la unidad, clase (Iconografía) y nivel.
+* **Matriz de Estadísticas:** Grilla de 2x2 que muestra de forma iconográfica los atributos base: Vida (PS), Ataque, Movimiento y Defensa.
+* **Desglose de Habilidades:** Listado vertical que detalla el efecto de cada habilidad y su costo de ejecución, facilitando la comprensión de los roles (ej. el Tanque como mitigador de daño).
+<img width="1664" height="2574" alt="Detalles personajes" src="https://github.com/user-attachments/assets/7e8b7246-96a1-4512-ad91-6c5574b93298" />
+
+### Panel de Ajustes
+Una ventana emergente (pop-up) con efecto de desenfoque de fondo para no perder el contexto del juego.
+
+* **Controles Temáticos:** Deslizadores (sliders) de volumen que utilizan huellas de gato como indicadores de posición.
+* **Gestión de Sonido:** Separación de canales para música de ambiente y efectos de sonido (SFX), permitiendo una personalización completa de la experiencia auditiva.
+<img width="1664" height="2574" alt="Ajustes" src="https://github.com/user-attachments/assets/cd734a26-3a49-4d32-94c9-99f244339688" />
+
+### 🛠️ Especificaciones Técnicas del Diseño
+* **Relación de Aspecto:** 9:16 (Optimizado para dispositivos móviles modernos).
+* **Paleta de Colores:** Tonos tierra, maderas oscuras y colores vibrantes para indicadores de vida y habilidades.
+* **Tipografía:** Estilo Pixel/Fantasy para coherencia con el género TRPG.
+
+
+
 
 
